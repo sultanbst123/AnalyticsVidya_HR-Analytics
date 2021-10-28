@@ -10,8 +10,10 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/AnalyticsVidya_HR-Analytics/blob/main/HR%20analytics.ipynb
 
 ## Data modeling with Python:
-Nant!!! 
+Melakukan feature selections,model selection, hyperparameter tuning & crossvalidation. Untuk metrics di hackathon ini adalah f1_score.
 
+Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
+https://github.com/sultanbst123/AnalyticsVidya_HR-Analytics/blob/main/HR_Analytics.ipynb
 
 ## Dataset & Information:
 https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/#ProblemStatement
